@@ -1,1 +1,1 @@
-# stock-forecasting-1-t-dt
+# stock-forecasting-ln(t) group
